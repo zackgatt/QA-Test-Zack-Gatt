@@ -1,0 +1,5 @@
+Run 'npx cypress open' in the terminal to open Cypress GUI and Press 'Run all Specs' button on the top right corner. 
+Results are shown on the right side of the chrome instance that is opened and the steps of the process can be seen after test are all done.
+
+For html and json reports, run 'npx cypress run' in the terminal and wait for the tests to finish, afterwards navigate to the results folder and the html and json 
+files can be found. Also videos and printscreens of the process can be found in their rescpective folders.
