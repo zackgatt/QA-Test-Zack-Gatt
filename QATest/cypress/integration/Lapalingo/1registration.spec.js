@@ -72,7 +72,7 @@ context('Actions', () => {
     it('Succesful registration', () => {
         cy.get('.promo-logout-box-inner > .btn').click()
         cy.get('#lionline_user_registration_form_email')
-            .type('newtestemail05@gmail.com')
+            .type('newtestemail06@gmail.com')
         cy.get('#lionline_user_registration_form_plainPassword_first')
             .type('Testpassword1')
         cy.get('#lionline_user_registration_form_plainPassword_second')
